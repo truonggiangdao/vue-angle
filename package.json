@@ -1,0 +1,24 @@
+{
+  "name": "vue-angle",
+  "version": "1.0.0",
+  "description": "Vue Angle Picker",
+  "author": "truonggiangdao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@github.com/truonggiangdao/vue-angle.git"
+  },
+  "keywords": [
+    "vue",
+    "angle",
+    "picker"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truonggiangdao/vue-angle/issues"
+  },
+  "homepage": "https://github.com/truonggiangdao/vue-angle#readme"
+}
