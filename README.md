@@ -6,7 +6,7 @@ This is a small project to create the angle picker as I want because I couldn't 
 ### Example
 <p align="center">
   <a href="https://github.com/truonggiangdao/vue-angle" target="_blank">
-    <img alt="Vue Angle" width="200" src="https://github.com/truonggiangdao/vue-angle/blob/master/examples/01.png">
+    <img alt="Vue Angle" width="200" src="examples/01.png">
   </a>
 </p>
 
