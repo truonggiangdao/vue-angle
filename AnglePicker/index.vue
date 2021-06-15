@@ -8,4 +8,4 @@
 
 <script src="./script.js"></script>
 
-<style lang="scss" scoped src="./style.scss"></style>
+<style lang="css" scoped src="./style.css"></style>
