@@ -17,8 +17,28 @@ Use:
 
 ```
 import Vue from 'vue';
-import AnglePicker from 'vue-angle';
-vue.use(AnglePicker);
+import VueAngle from 'vue-angle';
+vue.use(VueAngle);
+```
+
+Example Code:
+
+```
+<template>
+    <vue-angle :angle="angle" @change="onChange"></vue-angle> 
+</template>
+<script>
+    export default{
+        data() {
+            angle: 0
+        },
+        methods:{
+            onChange(angle){
+                this.angle = angle;
+            }
+        }
+    }
+</script>
 ```
 
 
